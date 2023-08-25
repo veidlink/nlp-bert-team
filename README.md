@@ -5,7 +5,7 @@
 ### Проект
 
 
-Разработка multipage-приложение с использованием streamlit (Streamlit-сервис развернут на HuggingFace Spaces):
+Разработка multipage-приложение с использованием streamlit [(Streamlit-сервис развернут на HuggingFace Spaces)](https://huggingface.co/spaces/AntNikYab/NaturalLanguageProcessing):
 
 - Страница 1 • Классификация отзыва на поликлиники
 
