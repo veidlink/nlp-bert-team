@@ -15,7 +15,6 @@ Elbrus Bootcamp | Phase-2 | Team project
 Разработка multipage-приложение с использованием streamlit [(Streamlit-сервис развернут на HuggingFace Spaces)](https://huggingface.co/spaces/AntNikYab/NaturalLanguageProcessing):
 
 - Страница 1 • Классификация отзыва на поликлиники
-  Метрика - Macro F1
 
         Модель классификации введенного пользователем отзыва
         Выводит результаты предсказаний класса тремя моделями:
