@@ -4,13 +4,12 @@
 
 ### Проект
 
-Elbrus Bootcamp | Phase-0 | Team project
+Elbrus Bootcamp | Phase-2 | Team project
 
-🦸‍♂️Команда
-
-    Антон Яблоков
-    Вика Иванова
-    Салман Чакаев
+## 🦸‍♂️Команда
+1. [Антон Яблоков](https://github.com/AntNikYab)
+2. [Вика Иванова](https://github.com/Vikaska031)
+3. [Салман Чакаев](https://github.com/veidlink)
     
 Разработка multipage-приложение с использованием streamlit [(Streamlit-сервис развернут на HuggingFace Spaces)](https://huggingface.co/spaces/AntNikYab/NaturalLanguageProcessing):
 
