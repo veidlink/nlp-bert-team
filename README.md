@@ -9,7 +9,7 @@ Elbrus Bootcamp | Phase-2 | Team Project
 ## 🦸‍♂️ Team
 1. [Anton Yablokov](https://github.com/AntNikYab)
 2. [Vika Ivanova](https://github.com/Vikaska031)
-3. [Salman Chakaev](https://github.com/veidlink)
+3. [Solomon Chakaev](https://github.com/veidlink)
 
 ## 🎯 Task    
 Development of a multipage application using streamlit [(Streamlit service deployed on HuggingFace Spaces)](https://huggingface.co/spaces/AntNikYab/NaturalLanguageProcessing):
@@ -30,7 +30,7 @@ Development of a multipage application using streamlit [(Streamlit service deplo
         Users can adjust the length of the generated sequence
         The number of generations, temperature, top-k/p, maximum length, and the number of generated sequences can be controlled
 
-- Page 3 • Evaluation of User Message Toxicity. The model is also available as a [Telegram bot](https://t.me/ToxicElbBot))
+- Page 3 • Evaluation of User Message Toxicity. The model is also available as a [Telegram bot](https://t.me/ToxicElbBot)
 
         Accepts user messages and assesses their toxicity
         Implemented using rubert-tiny-toxicity
