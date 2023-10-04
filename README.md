@@ -1,38 +1,36 @@
 # nlp_bert_team
 
-## Обработка естественного языка • Natural Language Processing
+## Natural Language Processing
 
-### Проект
+### Project
 
-Elbrus Bootcamp | Phase-2 | Team project
+Elbrus Bootcamp | Phase-2 | Team Project
 
-## 🦸‍♂️Команда
-1. [Антон Яблоков](https://github.com/AntNikYab)
-2. [Вика Иванова](https://github.com/Vikaska031)
-3. [Салман Чакаев](https://github.com/veidlink)
+## 🦸‍♂️ Team
+1. [Anton Yablokov](https://github.com/AntNikYab)
+2. [Vika Ivanova](https://github.com/Vikaska031)
+3. [Salman Chakaev](https://github.com/veidlink)
 
-## 🎯 Задача    
-Разработка multipage-приложение с использованием streamlit [(Streamlit-сервис развернут на HuggingFace Spaces)](https://huggingface.co/spaces/AntNikYab/NaturalLanguageProcessing):
+## 🎯 Task    
+Development of a multipage application using streamlit [(Streamlit service deployed on HuggingFace Spaces)](https://huggingface.co/spaces/AntNikYab/NaturalLanguageProcessing):
 
-- Страница 1 • Классификация отзыва на поликлиники
+- Page 1 • Review Classification for Polyclinics
 
-        Модель классификации введенного пользователем отзыва
-        Выводит результаты предсказаний класса тремя моделями:
-        1) Классический ML-алгоритм (Logsitic Regression), обученный на BagOfWords представлении
-        2) LSTM модель
+        User-entered review classification model
+        Outputs prediction results by three models:
+        1) Classic ML algorithm (Logistic Regression) trained on BagOfWords representation
+        2) LSTM model
         3) BERT-based
-        Рядом с предсказанием выводится время, за которое оно было получено
-        На странице располагаеся сравнительная таблица по метрике f1-macro для всех построенных классификаторов
+        Alongside the prediction, the time it was obtained is displayed
+        The page features a comparative table based on the f1-macro metric for all constructed classifiers
 
+- Page 2 • Text Generation with GPT Model
 
-- Страница 2 • Генерация текста GPT-моделью 
+        Generative model 
+        Users can adjust the length of the generated sequence
+        The number of generations, temperature, top-k/p, maximum length, and the number of generated sequences can be controlled
 
-        Генеративная модель 
-        Пользователь может регулировать длину выдаваемой последовательности
-        Число генераций, температуру или top-k/p, максимальную длинну и число сгенерированных последовательностей 
+- Page 3 • Evaluation of User Message Toxicity. The model is also available as a [Telegram bot](https://t.me/ToxicElbBot))
 
-
-- Страница 3 • Оценка степени токсичности пользовательского сообщения. Модель есть также в виде [Telegram бота](https://t.me/ToxicElbBot))
-  
-        Принимает пользовательское сообщение и оценивает его токсичность
-        Реализовано на rubert-tiny-toxicity
+        Accepts user messages and assesses their toxicity
+        Implemented using rubert-tiny-toxicity
